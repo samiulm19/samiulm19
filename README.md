@@ -19,7 +19,7 @@ I'm a passionate Front End Web Designer with 3+ years of experience dedicated to
  ✅ Static Website Design  
 
 ## GitHub Highlights
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tomal223&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tomal223&theme=gruvbox)](https://github.com/samiulm19)  
 ![](https://activity-graph.herokuapp.com/graph?username=tomal223&bg_color=000000&color=4C71F2)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomal223&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://visitor-badge.glitch.me/badge?page_id=tomal223.profile&labelColor=00FF00)
