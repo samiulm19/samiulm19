@@ -19,11 +19,11 @@ I'm a passionate Front End Web Designer with 3+ years of experience dedicated to
  ✅ Static Website Design  
 
 ## GitHub Highlights
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tomal223&theme=gruvbox)](https://github.com/samiulm19)  
-![](https://activity-graph.herokuapp.com/graph?username=tomal223&bg_color=000000&color=4C71F2)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomal223&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![](https://visitor-badge.glitch.me/badge?page_id=tomal223.profile&labelColor=00FF00)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomal223&theme=dark)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=samiulm19&theme=gruvbox)](https://github.com/samiulm19)  
+![](https://activity-graph.herokuapp.com/graph?username=samiulm19&bg_color=000000&color=4C71F2)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samiulm19&theme=dark)](https://github.com/samiulm19)
+![](https://visitor-badge.glitch.me/badge?page_id=samiulm19.profile&labelColor=00FF00)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiulm19&theme=dark)
 
 ## Why Choose Me?
  🚀 Fast Communication & Response Time  
@@ -47,16 +47,16 @@ I'm a passionate Front End Web Designer with 3+ years of experience dedicated to
 [![Funnel Design](https://img.shields.io/badge/Funnel%20Design-FF6B6B?style=for-the-badge)](https://www.crazyegg.com/blog/funnel-design)
 
 ## Get in Touch
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:towhozib223@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801316483758)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiulm19356@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801303351455)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomal223)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/towhozibahmed)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomal_223)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiulm)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/samiulm19)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samiulm19)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/xTHkve6zE4Pm)
 
 I take pride in my ability to handcraft clean code and ensure client satisfaction. Let's work together and achieve exceptional results.
 
 Thanks,
-Tawzib Ahmed Tomal
+Samiul Islam
